@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\SecondPractice\\SecondPractice.csproj": {}
+    "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\SecondPractice\\SecondPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\SecondPractice\\SecondPractice.csproj": {
+    "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\SecondPractice\\SecondPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\SecondPractice\\SecondPractice.csproj",
+        "projectUniqueName": "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\SecondPractice\\SecondPractice.csproj",
         "projectName": "SecondPractice",
-        "projectPath": "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\SecondPractice\\SecondPractice.csproj",
-        "packagesPath": "C:\\Users\\Burohvost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\SecondPractice\\obj\\",
+        "projectPath": "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\SecondPractice\\SecondPractice.csproj",
+        "packagesPath": "C:\\Users\\Grigorii Kokotkin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\SecondPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Burohvost\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Grigorii Kokotkin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

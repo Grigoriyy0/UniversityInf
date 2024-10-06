@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Burohvost\\.nuget\\packages\\": {}
+    "C:\\Users\\Grigorii Kokotkin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\Practice1\\Practice1.csproj",
+      "projectUniqueName": "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\Practice1\\Practice1.csproj",
       "projectName": "Practice1",
-      "projectPath": "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\Practice1\\Practice1.csproj",
-      "packagesPath": "C:\\Users\\Burohvost\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\Practice1\\obj\\",
+      "projectPath": "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\Practice1\\Practice1.csproj",
+      "packagesPath": "C:\\Users\\Grigorii Kokotkin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\Practice1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Burohvost\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Grigorii Kokotkin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

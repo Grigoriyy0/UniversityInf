@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Burohvost\\.nuget\\packages\\": {}
+    "C:\\Users\\Grigorii Kokotkin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\TestApp\\TestApp.csproj",
+      "projectUniqueName": "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\TestApp\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\TestApp\\TestApp.csproj",
-      "packagesPath": "C:\\Users\\Burohvost\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\TestApp\\obj\\",
+      "projectPath": "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\TestApp\\TestApp.csproj",
+      "packagesPath": "C:\\Users\\Grigorii Kokotkin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\TestApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Burohvost\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Grigorii Kokotkin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

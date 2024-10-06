@@ -1,0 +1,15 @@
+C:\Users\Grigorii Kokotkin\Desktop\C#\UniversityInf\LaboratoryWork4\bin\Debug\net8.0\LaboratoryWork4.exe
+C:\Users\Grigorii Kokotkin\Desktop\C#\UniversityInf\LaboratoryWork4\bin\Debug\net8.0\LaboratoryWork4.deps.json
+C:\Users\Grigorii Kokotkin\Desktop\C#\UniversityInf\LaboratoryWork4\bin\Debug\net8.0\LaboratoryWork4.runtimeconfig.json
+C:\Users\Grigorii Kokotkin\Desktop\C#\UniversityInf\LaboratoryWork4\bin\Debug\net8.0\LaboratoryWork4.dll
+C:\Users\Grigorii Kokotkin\Desktop\C#\UniversityInf\LaboratoryWork4\bin\Debug\net8.0\LaboratoryWork4.pdb
+C:\Users\Grigorii Kokotkin\Desktop\C#\UniversityInf\LaboratoryWork4\obj\Debug\net8.0\LaboratoryWork4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grigorii Kokotkin\Desktop\C#\UniversityInf\LaboratoryWork4\obj\Debug\net8.0\LaboratoryWork4.AssemblyInfoInputs.cache
+C:\Users\Grigorii Kokotkin\Desktop\C#\UniversityInf\LaboratoryWork4\obj\Debug\net8.0\LaboratoryWork4.AssemblyInfo.cs
+C:\Users\Grigorii Kokotkin\Desktop\C#\UniversityInf\LaboratoryWork4\obj\Debug\net8.0\LaboratoryWork4.csproj.CoreCompileInputs.cache
+C:\Users\Grigorii Kokotkin\Desktop\C#\UniversityInf\LaboratoryWork4\obj\Debug\net8.0\LaboratoryWork4.sourcelink.json
+C:\Users\Grigorii Kokotkin\Desktop\C#\UniversityInf\LaboratoryWork4\obj\Debug\net8.0\LaboratoryWork4.dll
+C:\Users\Grigorii Kokotkin\Desktop\C#\UniversityInf\LaboratoryWork4\obj\Debug\net8.0\refint\LaboratoryWork4.dll
+C:\Users\Grigorii Kokotkin\Desktop\C#\UniversityInf\LaboratoryWork4\obj\Debug\net8.0\LaboratoryWork4.pdb
+C:\Users\Grigorii Kokotkin\Desktop\C#\UniversityInf\LaboratoryWork4\obj\Debug\net8.0\LaboratoryWork4.genruntimeconfig.cache
+C:\Users\Grigorii Kokotkin\Desktop\C#\UniversityInf\LaboratoryWork4\obj\Debug\net8.0\ref\LaboratoryWork4.dll
