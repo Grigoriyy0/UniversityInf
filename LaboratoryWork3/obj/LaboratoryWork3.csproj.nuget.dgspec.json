@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\LaboratoryWork3\\LaboratoryWork3.csproj": {}
+    "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\LaboratoryWork3\\LaboratoryWork3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\LaboratoryWork3\\LaboratoryWork3.csproj": {
+    "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\LaboratoryWork3\\LaboratoryWork3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\LaboratoryWork3\\LaboratoryWork3.csproj",
+        "projectUniqueName": "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\LaboratoryWork3\\LaboratoryWork3.csproj",
         "projectName": "LaboratoryWork3",
-        "projectPath": "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\LaboratoryWork3\\LaboratoryWork3.csproj",
-        "packagesPath": "C:\\Users\\Burohvost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Burohvost\\RiderProjects\\TestApp\\LaboratoryWork3\\obj\\",
+        "projectPath": "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\LaboratoryWork3\\LaboratoryWork3.csproj",
+        "packagesPath": "C:\\Users\\Grigorii Kokotkin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Grigorii Kokotkin\\Desktop\\C#\\UniversityInf\\LaboratoryWork3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Burohvost\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Grigorii Kokotkin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
