@@ -18,19 +18,23 @@ class Program
             var input = Console.ReadLine();
             if (input == "1")
             {
-                        
-                Console.WriteLine("Выберите файл из списка: ");
+                Console.WriteLine("Анализ временных рядов");        
+                Console.WriteLine("Выберите файл из списка для выполнения скользящего среднего: ");
                 string path = @"C:\LaboratoryWork4\Storage";
-                string[] files = Directory.GetFiles(path);
-
-                foreach (string file in files)
+                FirstTask.ShowFiles(path);
+                var file = Console.ReadLine();
+                Console.WriteLine("Среднее значение за весь период времени: ");
+                FirstTask.MovingAverage(file);
+                Console.WriteLine("Желаете продолжить? (y / n)");
+                var inp = Console.ReadLine();
+                if (inp == "y")
                 {
-                    string fileName = Path.GetFileName(file);
-                    Console.WriteLine(fileName);
+                    continue;
                 }
-                var chosenFile = Console.ReadLine();
-
-                string[] data = File.ReadAllLines($"C:\\LaboratoryWork4\\Storage\\{chosenFile}");
+                else if (inp == "n")
+                {
+                    break;
+                }
                 
             }
             else if (input == "2")
