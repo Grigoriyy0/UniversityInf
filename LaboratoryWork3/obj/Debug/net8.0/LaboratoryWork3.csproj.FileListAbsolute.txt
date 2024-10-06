@@ -1,0 +1,14 @@
+C:\Users\Burohvost\RiderProjects\TestApp\LaboratoryWork3\bin\Debug\net8.0\LaboratoryWork3.exe
+C:\Users\Burohvost\RiderProjects\TestApp\LaboratoryWork3\bin\Debug\net8.0\LaboratoryWork3.deps.json
+C:\Users\Burohvost\RiderProjects\TestApp\LaboratoryWork3\bin\Debug\net8.0\LaboratoryWork3.runtimeconfig.json
+C:\Users\Burohvost\RiderProjects\TestApp\LaboratoryWork3\bin\Debug\net8.0\LaboratoryWork3.dll
+C:\Users\Burohvost\RiderProjects\TestApp\LaboratoryWork3\bin\Debug\net8.0\LaboratoryWork3.pdb
+C:\Users\Burohvost\RiderProjects\TestApp\LaboratoryWork3\obj\Debug\net8.0\LaboratoryWork3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burohvost\RiderProjects\TestApp\LaboratoryWork3\obj\Debug\net8.0\LaboratoryWork3.AssemblyInfoInputs.cache
+C:\Users\Burohvost\RiderProjects\TestApp\LaboratoryWork3\obj\Debug\net8.0\LaboratoryWork3.AssemblyInfo.cs
+C:\Users\Burohvost\RiderProjects\TestApp\LaboratoryWork3\obj\Debug\net8.0\LaboratoryWork3.csproj.CoreCompileInputs.cache
+C:\Users\Burohvost\RiderProjects\TestApp\LaboratoryWork3\obj\Debug\net8.0\LaboratoryWork3.dll
+C:\Users\Burohvost\RiderProjects\TestApp\LaboratoryWork3\obj\Debug\net8.0\refint\LaboratoryWork3.dll
+C:\Users\Burohvost\RiderProjects\TestApp\LaboratoryWork3\obj\Debug\net8.0\LaboratoryWork3.pdb
+C:\Users\Burohvost\RiderProjects\TestApp\LaboratoryWork3\obj\Debug\net8.0\LaboratoryWork3.genruntimeconfig.cache
+C:\Users\Burohvost\RiderProjects\TestApp\LaboratoryWork3\obj\Debug\net8.0\ref\LaboratoryWork3.dll

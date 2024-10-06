@@ -1,0 +1,14 @@
+C:\Users\Burohvost\RiderProjects\TestApp\SecondPractice\bin\Debug\net8.0\SecondPractice.exe
+C:\Users\Burohvost\RiderProjects\TestApp\SecondPractice\bin\Debug\net8.0\SecondPractice.deps.json
+C:\Users\Burohvost\RiderProjects\TestApp\SecondPractice\bin\Debug\net8.0\SecondPractice.runtimeconfig.json
+C:\Users\Burohvost\RiderProjects\TestApp\SecondPractice\bin\Debug\net8.0\SecondPractice.dll
+C:\Users\Burohvost\RiderProjects\TestApp\SecondPractice\bin\Debug\net8.0\SecondPractice.pdb
+C:\Users\Burohvost\RiderProjects\TestApp\SecondPractice\obj\Debug\net8.0\SecondPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burohvost\RiderProjects\TestApp\SecondPractice\obj\Debug\net8.0\SecondPractice.AssemblyInfoInputs.cache
+C:\Users\Burohvost\RiderProjects\TestApp\SecondPractice\obj\Debug\net8.0\SecondPractice.AssemblyInfo.cs
+C:\Users\Burohvost\RiderProjects\TestApp\SecondPractice\obj\Debug\net8.0\SecondPractice.csproj.CoreCompileInputs.cache
+C:\Users\Burohvost\RiderProjects\TestApp\SecondPractice\obj\Debug\net8.0\SecondPractice.dll
+C:\Users\Burohvost\RiderProjects\TestApp\SecondPractice\obj\Debug\net8.0\refint\SecondPractice.dll
+C:\Users\Burohvost\RiderProjects\TestApp\SecondPractice\obj\Debug\net8.0\SecondPractice.pdb
+C:\Users\Burohvost\RiderProjects\TestApp\SecondPractice\obj\Debug\net8.0\SecondPractice.genruntimeconfig.cache
+C:\Users\Burohvost\RiderProjects\TestApp\SecondPractice\obj\Debug\net8.0\ref\SecondPractice.dll
