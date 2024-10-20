@@ -1,72 +1,59 @@
-﻿namespace Practice2;
+namespace Practice2;
 
 class Program
 {
     public static void Main(string[] args)
     {
-        string input = @"C:\Practice2\Input.txt";
-        string output = @"C:\Practice2\Output.txt";
+       int numOfTickets = int.Parse(Console.ReadLine()!);
+       int[] tickets = new int[numOfTickets];
+       for (int i = 0; i < numOfTickets; i++)
+       {
+           tickets[i] = int.Parse(Console.ReadLine()!);
+       }
 
-        int numberOfTest = int.Parse(File.ReadLines(input).FirstOrDefault());
-        string[] data = File.ReadLines(input).Skip(1).ToArray();
-
-        for (int i = 0; i < numberOfTest; i++)
-        {
-            string nextTicket = GetNextTicket(data[i]);
-            string prevTicket = GetPrevTicket(data[i]);
-            if (IsHappy(prevTicket) || IsHappy(nextTicket))
-            {
-                using (StreamWriter writer = new StreamWriter(output))
-                {
-                    writer.WriteLine("Yes");
-                }
-            }
-            else
-            {
-                using (StreamWriter writer = new StreamWriter(output))
-                {
-                    writer.WriteLine("No");
-                }
-            }
-        }
+       foreach (var ticket in tickets)
+       {
+           if (IsOneStepFromHappiness(ticket))
+           {
+               Console.WriteLine("Yes");
+           }
+           else
+           {
+               Console.WriteLine("No");
+           }
+       }
     }
+    
+    static bool IsOneStepFromHappiness(int ticketNumber)
+    {
+        int sumFirstHalf = SumOfDigits(ticketNumber / 1000);
+        int sumSecondHalf = SumOfDigits(ticketNumber % 1000);
+        
+        if (Math.Abs(sumFirstHalf - sumSecondHalf) == 1)
+        {
+            return IsLucky(ticketNumber - 1) || IsLucky(ticketNumber + 1);
+        }
 
-    public static int SumInString(string input)
+        return false;
+    }
+    
+    static int SumOfDigits(int number)
     {
         int sum = 0;
-        foreach (char c in input)
+        while (number > 0)
         {
-            sum += int.Parse(c.ToString());
+            sum += number % 10;
+            number /= 10;
         }
         return sum;
     }
-
-    public static string GetPrevTicket(string ticket)
+    
+    static bool IsLucky(int ticketNumber)
     {
-        int num = int.Parse(ticket);
-        return (num-1).ToString();
-    }
-
-    public static string GetNextTicket(string ticket)
-    {
-        int num = int.Parse(ticket);
-        return (num + 1).ToString();
+        int sumFirstHalf = SumOfDigits(ticketNumber / 1000);
+        int sumSecondHalf = SumOfDigits(ticketNumber % 1000);
+        
+        return sumFirstHalf == sumSecondHalf;
     }
     
-
-    public static bool IsHappy(string ticket)
-    {
-        int sumFirstThree = SumInString(ticket.Substring(0,3));
-        int sumLastThree = SumInString(ticket.Substring(3,3));
-
-        if (sumFirstThree == sumLastThree)
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
-            
-    } 
 }
